@@ -7,7 +7,7 @@
 		"laravel/framework": "4.1.*",
 
 
-        "barryvdh/laravel-ide-helper": "1.*",
+        "barryvdh/laravel-ide-helper": "3.*",
         "way/generators": "dev-master",
         "cartalyst/sentry": "2.1.*",
         "cviebrock/eloquent-sluggable": "dev-master",
